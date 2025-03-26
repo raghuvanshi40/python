@@ -1,2 +1,4 @@
 # python
-this is my first respository
+THSI IS MY FIRST GITHUB REPO
+AND I AM GOING TO USE IT TO
+LEARN GIT AND GITHUB
